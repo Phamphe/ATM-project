@@ -1,0 +1,15 @@
+C:\Users\phamp\OneDrive\Documents\ATM clone\bin\Debug\net6.0\ATM clone.exe
+C:\Users\phamp\OneDrive\Documents\ATM clone\bin\Debug\net6.0\ATM clone.deps.json
+C:\Users\phamp\OneDrive\Documents\ATM clone\bin\Debug\net6.0\ATM clone.runtimeconfig.json
+C:\Users\phamp\OneDrive\Documents\ATM clone\bin\Debug\net6.0\ATM clone.dll
+C:\Users\phamp\OneDrive\Documents\ATM clone\bin\Debug\net6.0\ATM clone.pdb
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.csproj.AssemblyReference.cache
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.AssemblyInfoInputs.cache
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.AssemblyInfo.cs
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.csproj.CoreCompileInputs.cache
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.dll
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\refint\ATM clone.dll
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.pdb
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ATM clone.genruntimeconfig.cache
+C:\Users\phamp\OneDrive\Documents\ATM clone\obj\Debug\net6.0\ref\ATM clone.dll
